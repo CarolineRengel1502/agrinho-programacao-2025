@@ -1,11 +1,10 @@
-/* Reset básico */
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Corpo da página */
 body {
   font-family: Arial, sans-serif;
   background-color: #f4f7f5;
@@ -13,7 +12,6 @@ body {
   padding: 20px;
 }
 
-/* Cabeçalho */
 header {
   background: #7ab492;
   padding: 20px;
@@ -26,7 +24,6 @@ header {
   font-weight: bold;
 }
 
-/* Seções principais */
 section {
   background: #7ab492;
   padding: 20px;
@@ -34,7 +31,6 @@ section {
   border-radius: 8px;
 }
 
-/* Títulos das seções */
 h2 {
   color: white;
   font-size: 24px;
@@ -43,7 +39,6 @@ h2 {
   padding-bottom: 5px;
 }
 
-/* Parágrafos */
 p {
   color: #ffffff;
   margin-bottom: 15px;
@@ -51,7 +46,6 @@ p {
   font-size: 16px;
 }
 
-/* Link */
 a {
   color: #003366;
   font-weight: bold;
