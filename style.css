@@ -1,0 +1,98 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Corpo da página */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f7f5;
+  color: #000;
+  padding: 20px;
+}
+
+/* Cabeçalho */
+header {
+  background: #7ab492;
+  padding: 20px;
+  text-align: center;
+}
+
+.cabeçalho-título {
+  font-size: 32px;
+  color: #c7ff86;
+  font-weight: bold;
+}
+
+/* Seções principais */
+section {
+  background: #7ab492;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 8px;
+}
+
+/* Títulos das seções */
+h2 {
+  color: white;
+  font-size: 24px;
+  margin-bottom: 10px;
+  border-bottom: 2px solid white;
+  padding-bottom: 5px;
+}
+
+/* Parágrafos */
+p {
+  color: #ffffff;
+  margin-bottom: 15px;
+  line-height: 1.6;
+  font-size: 16px;
+}
+
+/* Link */
+a {
+  color: #003366;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+footer {
+  background: #baf7a0;
+  text-align: center;
+  padding: 15px;
+  margin-top: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.rodapé-título {
+  color: #2e5e2e;
+  font-size: 16px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 10px;
+  border-radius: 6px;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+
+.Show-Rural-Coopavel {
+  border: 2px solid white;
+  padding: 15px;
+  background-color: #6fa881;
+  border-radius: 6px;
+}
+
+.Show-Rural-Coopavel-texto5 {
+  font-weight: bold;
+  font-size: 17px;
+  color: #000000;
+  background: #e4f0e2;
+  padding: 10px;
+  border-radius: 6px;
+  margin-top: 15px;
+}
